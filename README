@@ -1,0 +1,2 @@
+Runtime: O(n) since a hashtable is built up of all the nodes and from there, links between nodes are formed in a sequential manner.
+Tradeoff: Memory to Speed in this case, since a new data structure had to be built to store the nodes.
